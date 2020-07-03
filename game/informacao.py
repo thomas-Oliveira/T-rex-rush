@@ -71,9 +71,9 @@ class Inf(pygame.sprite.Sprite):
 		color = (0,0,0)
 
 		for i in range(len(self.reac_text_pesos)):
-			self.reac_text_pesos[i].center = (consX + 600, consy+(i*25))
-			self.reac_text_inputs[i].center = (consX + 345, consy+(i*25)) 
-			self.reac_text_inputs_name[i].center = (consX + 485, consy+(i*25))
+			self.reac_text_pesos[i].center = (consX + 580, consy+(i*25))
+			self.reac_text_inputs[i].center = (consX + 325, consy+(i*25)) 
+			self.reac_text_inputs_name[i].center = (consX + 465, consy+(i*25))
 			for j in range(self.qtd_neuronios):
 				color_aux = (0,255,0) if j == self.escolhido_neuronio else color
 				pygame.draw.line(screen, color_aux, (consX + 635, consy+(i*25)), (consX_cir, consy_cir+(j*40)))
