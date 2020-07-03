@@ -4,7 +4,7 @@
 
 para este projeto foi utilizada uma rede com 1 camada e 8 neurônios, que segue o seguinte esquema:
 
-[image_perceptron](./sprites/perceptron.png)
+![image_perceptron](./sprites/perceptron.png)
 ---
 para executar o jogo normalmente basta executar o arquivo t-rex-game.py.
 ```cmd
