@@ -1,7 +1,7 @@
 # Aplicação de um mlp classifier para jogar o Dino run da Google
 
 
-[image_perceptron](./sprites/perceptron.png)
+![image_perceptron](./sprites/perceptron.png)
 ---
 para executar o jogo normalmente basta executar o arquivo t-rex-game.py.
 ```cmd
