@@ -1,6 +1,6 @@
 # Aplicação de um mlp classifier para jogar o Dino run da Google
 
-[image_game](./sprites/img1.png)
+![image_game](./sprites/img1.png)
 
 para este projeto foi utilizada uma rede com 1 camada e 8 neurônios, que segue o seguinte esquema:
 
