@@ -18,3 +18,5 @@ para executar e vizualizar a IA aprendendo a jogar o jogo basta executar o arqui
 ```cmd
 python arquivo t-rex-game_ia.py
 ```
+
+![gif game](./sprites/T-rex-rush-2020-07-03-20-56-52.gif)
